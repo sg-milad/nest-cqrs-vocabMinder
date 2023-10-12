@@ -3,7 +3,7 @@ name: Node.js CI/CD with Docker Compose
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
