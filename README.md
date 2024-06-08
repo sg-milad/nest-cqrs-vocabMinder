@@ -9,7 +9,7 @@ Welcome to the Vocabulary Learning and Retention Application! This project is de
 
 - **Vocabulary Creation:** Effortlessly add new words to your personal vocabulary list. Each entry includes the term and its definition, ensuring clarity and comprehensive understanding.
 
-- **Word Boxes:** The application introduces the concept of "Word Boxes," which enable users to group related words into customizable collections. These thematic Word Boxes facilitate focused learning by allowing users to target specific topics or categories.
+- **Word Boxes:** The application introduces the "Word Boxes" concept, which enables users to group related words into customizable collections. These thematic Word Boxes facilitate focused learning by allowing users to target specific topics or categories.
 
 - **Retention Strategies:** Employ personalized retention strategies by marking Word Boxes as "Learned" when you feel confident in your grasp of the vocabulary. This adaptable approach empowers learners to customize their learning experience.
 
@@ -30,7 +30,7 @@ Welcome to the Vocabulary Learning and Retention Application! This project is de
 ## To-Do
 
 - [ ] Develop the user interface (UI) for the application. 
-- [ ] add Progress Tracking for user for back-end
+- [ ] add Progress Tracking for user in back-end
 
 Feel free to customize the task description as needed. This "To-Do" section allows you to outline tasks you plan to work on, keeping yourself and potential contributors informed about the ongoing development of the project.
 
